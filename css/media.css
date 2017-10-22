@@ -1,0 +1,58 @@
+@media (max-height: 736px) {
+    div#bg {
+      background-image: url("../img/bg-medium.jpg"); } }
+  @media (max-height: 736px) {
+    div#bg {
+      background-image: url("../img/bg-medium.jpg"); } }
+  @media (max-width: 1024px) {
+    div#bg {
+      background-image: url("../img/bg-medium.jpg"); } }
+  @media (max-height: 600px) {
+    div#bg {
+      background-image: url("../img/bg-small.jpg"); } }
+  @media (max-width: 450px) {
+    div#bg {
+      background-image: url("../img/bg-small.jpg"); } }
+       @media (max-height: 736px) {
+    html, body {
+      font-size: 90%; } }
+  @media (max-width: 350px) {
+    html, body {
+      font-size: 80%; } }
+       @media (max-width: 1024px) {
+      body main {
+        width: 100%;
+        padding: 0; } }
+        media (max-height: 736px) {
+        body main h3 {
+          padding: 1rem 0rem 0rem 0rem; } }
+          @media (max-width: 450px) {
+    img#face {
+      width: 8rem;
+      height: 8rem; } }
+  @media (max-height: 600px) {
+    img#face {
+      width: 8rem;
+      height: 8rem; } }
+      @media (max-width: 450px) {
+    h3#greetings {
+      font-size: 2.5rem; } }
+      @media (max-width: 450px) {
+    h3#main-text {
+      font-size: 1.1rem; } }
+      @media (max-height: 736px) {
+    ul#icon-wrap {
+      padding: 1rem 0rem; } }
+  @media (max-width: 1024px) {
+    ul#icon-wrap {
+      width: 90%; } }
+  @media (max-width: 450px) {
+    ul#icon-wrap {
+      width: 60%; } }
+      @media (max-width: 450px) {
+      footer a#forkme {
+        display: none; } }
+    @media (max-height: 600px) {
+      footer a#forkme {
+        display: none; } }
+
